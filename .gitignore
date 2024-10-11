@@ -1,0 +1,31 @@
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+# Ignore data files
+*.csv
+*.h5
+*.json
+
+# Ignore model files
+*.h5
+*.pkl
+*.joblib
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
